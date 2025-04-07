@@ -2,7 +2,9 @@
 
 This repository contains a Power BI project focused on **Cohort Analysis** for retail customers. The dashboard helps analyze customer behavior over time and provides insights into **retention**, **churn**, and **performance trends** across different customer cohorts.
 
-![Retail Customer Cohort Analysis Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMTI0Njc1NWEtOWFkZi00MDNmLWEwMTctY2E0MThiMDQ5MjZmIiwidCI6ImYzZDA5MDA5LWI2ZjItNDI1OS05ZWJjLTkyNzRkNTMxNDc0MSIsImMiOjEwfQ%3D%3D)
+![Retail Customer Cohort Analysis Dashboard](Cohort%20analysis.png)
+
+[Retail Customer Cohort Analysis Dashboard:] (https://app.powerbi.com/view?r=eyJrIjoiMTI0Njc1NWEtOWFkZi00MDNmLWEwMTctY2E0MThiMDQ5MjZmIiwidCI6ImYzZDA5MDA5LWI2ZjItNDI1OS05ZWJjLTkyNzRkNTMxNDc0MSIsImMiOjEwfQ%3D%3D)
 
 ---
 
